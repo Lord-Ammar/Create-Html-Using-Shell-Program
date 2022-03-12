@@ -1,4 +1,5 @@
-
+#Jangan Decode Dulu Ini Belum Selesai Ajg
+#Dipelajari Juga Jan Decode Doang Ajg:)
 blue='\033[34;1m'
 green='\033[32;1m'
 purple='\033[35;1m'
